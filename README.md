@@ -6,9 +6,9 @@
 - 🌱 Aprendendo cada vez mais sobre automação de testes, especialmente em **Python** e ferramentas de QA
 - 👨‍💻 Experiência de 3 anos em **suporte de sistemas**, **testes de software** e **administração de bancos de dados** 
 - ⚙️ Foco em melhorar a **qualidade de sistemas** através da execução de testes funcionais, manuais e automatizados
-- 🧠 Tenho forte conhecimento em **SQL Server**, **MySQL**, **Microsoft Azure** e **JIRA**
+- 🧠 Tenho forte conhecimento em **SQL Server**, **Microsoft Azure** e ferramentas voltadas para automação de testes como **Selenium**, **Cypress**, e **Jenkins**. Essas plataformas são essenciais para garantir a qualidade, automação e eficiência em testes de software, facilitando a integração contínua e execução de testes funcionais automatizados.
 - 💬 Pergunte-me sobre **QA**, **automação de testes** e **desenvolvimento em Python**
-- 📍 Baseado em Belo Horizonte, MG
+- 📍 Localização em Belo Horizonte, MG
 
 ## 📫 Contato
 
@@ -19,11 +19,9 @@
 
 ## 🚀 Tecnologias e Ferramentas
 
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> 
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> 
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/> 
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" height="40"/> 
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="40" height="40"/> 
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40" height="40"/> 
+
+
 
 ## 📊 Estatísticas do GitHub
 
